@@ -1,13 +1,13 @@
 # 狸猫科技 Lihuacat Technology
 
 ## 1.简介（Introduction）
-狸猫科技，专注于软件专业本科阶段学生的编程作业和毕业设计，同时涵盖一些简单的人工智能项目开发。
+狸猫科技，专注于本科阶段学生的编程作业和毕业设计，致力于人工智能相关技术的开发。
 
-Limao Technology is dedicated to serving undergraduate software engineering students by offering programming assignment help, graduation project guidance, and basic AI project development.
+Lihuacat Technology focuses on programming assignments and graduation projects for undergraduate students, dedicated to the development of AI-related technologies.
 
-## 商务合作（Business Cooperation）
 
-联系方式，wx：maxiuwo1314  邮箱：zhaogangbjm@gmail.com
+## 2.商务合作（Business Cooperation）
 
-Contact information，WeChat: maxiuwo1314  Email：zhaogangbjm@gmail.com
+微信：maxiuwo1314  WeChat: maxiuwo1314
 
+邮箱：zhaogangbjm@gmail.com Email：zhaogangbjm@gmail.com
