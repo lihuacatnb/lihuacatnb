@@ -8,6 +8,6 @@ Lihuacat Technology focuses on programming assignments and graduation projects f
 
 ## 2.商务合作（Business Cooperation）
 
-微信：maxiuwo1314  WeChat: maxiuwo1314
+微信：maxiuwo1314 &nbsp&nbsp WeChat: maxiuwo1314
 
-邮箱：zhaogangbjm@gmail.com Email：zhaogangbjm@gmail.com
+邮箱：zhaogangbjm@gmail.com &nbsp&nbsp Email：zhaogangbjm@gmail.com
