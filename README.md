@@ -4,21 +4,6 @@
 
 ---
 
-<p align="center">
-  <b>AI Solutions for Undergraduate Projects</b><br>
-  <i>专注于本科生编程作业与毕业设计的人工智能助手</i>
-</p>
-
-<p align="center">
-  <!-- Shields.io badges -->
-  <img src="https://img.shields.io/badge/AI-LH--Cat%20AI-blueviolet?style=for-the-badge" alt="LH-Cat AI" />
-  <img src="https://img.shields.io/badge/Focus-Undergraduate%20Projects-brightgreen?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Tech-AI%20%7C%20LLM%20%7C%20NLP-orange?style=for-the-badge" alt="Tech Stack" />
-  <img src="https://img.shields.io/badge/Contact-WeChat%20%7C%20Email-lightgrey?style=for-the-badge" alt="Contact" />
-</p>
-
----
-
 ## 中文介绍
 
 ### 1. 个人简介
