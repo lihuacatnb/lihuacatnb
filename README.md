@@ -19,7 +19,7 @@
 ### 1. Personal Profile
 An unnamed wanderer contributing to computer science, now focused on exploring and practicing AI.
 
-### 2. Business Cooperation
+### 2. Contact Me
 - Email: **zhaogangbjm@gmail.com**
 
 ---
